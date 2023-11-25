@@ -14,6 +14,8 @@
 </div>
 
 <div>
-<img width="450em" alt="Status Github Vinicius" src="https://github-readme-stats.vercel.app/api?username=viniciuscaua&show_icons=true&theme=dracula" />
-<img width="400em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscaua&layout=compact&theme=dracula"/>
+<img width="190em" alt="Status Github Vinicius" src="https://github-readme-stats.vercel.app/api?username=viniciuscaua&show_icons=true&theme=dracula" />
+<img width="190em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscaua&layout=compact&theme=dracula"/>
 </div>
+
+![Snake animation](https://github.com/viniciuscaua/viniciuscaua/blob/output/github-contribution-grid-snake.svg)
