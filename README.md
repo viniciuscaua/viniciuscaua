@@ -2,9 +2,9 @@
 
 ## Eu sou um Desenvolvedor Web/Mobile!
 
-- 🌱  Melhorando em Java | Node.js | C#
-- 👯  Técnico em Informática para Internet
-- 🥅  Cursando Análise e desenvolvimento de Sistemas (UFRN)
+- Melhorando em Java | C# | Node.js
+- Técnico em Informática para Internet
+- Cursando Análise e desenvolvimento de Sistemas (UFRN)
 
 ### Sociais:
 
