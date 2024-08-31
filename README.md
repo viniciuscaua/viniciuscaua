@@ -1,8 +1,6 @@
-### Olá! Eu sou Vinicius Cauã 😀
+### Olá, seja bem vindo! Eu sou Vinicius Cauã 😀
 
-## Eu sou um Desenvolvedor Web/Mobile!
-
-- Melhorando em Java | C# | Node.js
+- Melhorando em Java | NodeJS | PHP
 - Técnico em Informática para Internet
 - Cursando Análise e desenvolvimento de Sistemas (UFRN)
 
